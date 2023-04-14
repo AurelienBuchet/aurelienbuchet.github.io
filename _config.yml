@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Aurelien Buchet's website
+title: Aurelien Buchet
 
 # Your name to show in the footer
 author: Aurelien Buchet
@@ -24,7 +24,6 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
