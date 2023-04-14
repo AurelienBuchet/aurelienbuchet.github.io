@@ -6,4 +6,4 @@ title: About me
 
 ### Aurélien Buchet
 
-I started my PhD thesis in September 2023 under the supervision of Prof. Cristel Rivière. I'm also a teaching assistant at the UCLouvain in the INGI department. I'm working on network privacy and programmable proxys.
+I started my PhD thesis in September 2023 under the supervision of Prof. Cristel Pelsser. I'm also a teaching assistant at the UCLouvain in the INGI department. I'm working on network privacy and programmable proxys.
