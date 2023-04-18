@@ -21,8 +21,9 @@ author: Aurelien Buchet
 
 navbar-links:
   About Me: "aboutme"
+  Nat Detection Application: "nat_application"
   Resources:
-    - NAT detection Application: "/assets/apk/app-apk.apk" 
+    - NAT App APK: "/assets/apk/app-apk.apk" 
     #"https://beautifuljekyll.com"
 
 ################
