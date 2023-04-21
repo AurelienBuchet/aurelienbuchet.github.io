@@ -15,4 +15,6 @@ All information you provide will be treated anonymously and confidentially. Neit
 We will also keep confidential all the IP addresses and the identifiers gathered during the measurements. Only dummy values will be used to illustrate approaches, theories or model.
 If you have any question regarding the application or the data collected, feel free to contact us at.
 
-## Help our research by installing our application ! The link to download the application is available [here](/assets/apk/app-apk.apk).
+## Help our research ! Install our application using the APK available [here](/assets/apk/app-apk.apk).
+
+The app is only available for Android and requires at least the Android 8.0
