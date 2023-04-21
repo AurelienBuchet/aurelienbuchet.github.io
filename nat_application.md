@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Nat Detection Application
-subtitle: Protecting against IP Tracking using NAT interfaces - Find out if you're alone behind your NAT
+subtitle: Protecting against IP Tracking using NAT interfaces
+middletitle: Find out if you're alone behind your NAT
 comments: true
 ---
 
