@@ -23,7 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Nat Detection Application: "nat_application"
   Resources:
-    - NAT App APK: "/assets/apk/app-apk.apk" 
+    - NAT App APK: "/assets/apk/app-apk.apk"
+    - NAT App privacy notice: "app_privacy_policy"
     #"https://beautifuljekyll.com"
 
 ################
