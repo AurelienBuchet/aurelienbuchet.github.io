@@ -15,6 +15,6 @@ All information you provide will be treated anonymously and confidentially. Neit
 We will also keep confidential all the IP addresses and the identifiers gathered during the measurements. Only dummy values will be used to illustrate approaches, theories or model.
 If you have any question regarding the application or the data collected, feel free to contact us at [aurelien.buchet@uclouvain.be](mailto:aurelien.buchet@uclouvain.be). More information about our privacy policy is available [here](https://aurelienbuchet.github.io/app_privacy_policy/)
 
-## Help our research ! Install our application using the APK available [here](/assets/apk/app-apk.apk).
+## Help our research ! Install our application from the [Play Store](https://play.google.com/store/apps/details?id=com.mise.nat_detection_app) or using the APK available [here](/assets/apk/app-apk.apk).
 
 The app is only available for Android and requires at least the Android 8.0
