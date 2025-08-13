@@ -6,7 +6,7 @@ tags: [blog]
 comments: true
 ---
 
-Our paper "An Analysis of Quic Connection Migration in the Wild" has been published at [ACM SIGCOMM Computer Communication Review](https://ccronline.sigcomm.org/). You can find the full paper [here](https://dl.acm.org/doi/abs/10.1145/3727063.3727066).
+Our paper "An Analysis of Quic Connection Migration in the Wild" has been published at [ACM SIGCOMM Computer Communication Review](https://ccronline.sigcomm.org/) (CCR). You can find the full paper [here](https://dl.acm.org/doi/abs/10.1145/3727063.3727066).
 
 ## Abstract
 
